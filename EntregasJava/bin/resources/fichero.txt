@@ -1,0 +1,7 @@
+Este es un ejemplo de archivo de texto.
+Las palabras clave pueden aparecer en cualquier lugar.
+Clave importante: prueba consecutiva con palabras.
+Aquí hay una línea sin palabras relevantes.
+Otra línea con dos palabras clave consecutivas: prueba clave.
+Nada más que ver aquí.
+Una última prueba con palabras repetidas: clave clave.
